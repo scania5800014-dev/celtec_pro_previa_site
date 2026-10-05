@@ -1,0 +1,6 @@
+{
+  "name": "Celtec.pro - Assistência Técnica iPhone",
+  "description": "Assistência Técnica Especializada Apple e Venda de Produtos Premium em Santa Maria - RS. Troca de tela, bateria, reparos e procedência garantida.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
